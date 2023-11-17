@@ -100,7 +100,7 @@ results in the array `myArray` having the following elements,
 myArray <br/>
 <span style="margin-left:25px;">
 <span style="padding:3px 3px 3px 3px;border:black solid 1px; background-color:#eeeeee;">*</span>---->
-<span style="padding:3px 3px 3px 3px;border:black solid 1px; background-color:#eeeeee;">"French"</span><span style="padding:3px 3px 3px 3px;border:black solid 1px; background-color:#eeeeee;">"English"</span><span style="padding:3px 3px 3px 3px; border:black solid 1px; background-color:#eeeeee;">"Greek"</span><span style="padding:3px 3px 3px 3px; border:black solid 1px; background-color:#eeeeee;">"Russian"</span><span style="padding:3px 3px 3px 3px; border:black solid 1px; background-color:#eeeeee;">"Spanish"</span>
+<span style="padding:3px 3px 3px 3px;border:black solid 1px; background-color:#eeeeee;">"French"</span><span style="padding:3px 3px 3px 3px;border:black solid 1px; background-color:#eeeeee;">"English"</span><span style="padding:3px 3px 3px 3px; border:black solid 1px; background-color:#eeeeee;">"Greek"</span><span style="padding:3px 3px 3px 3px; border:black solid 1px; background-color:#eeeeee;">"Russian"</span>
 </span>
 </p>
 
