@@ -58,9 +58,9 @@ The method uses a static variable of type `Random`.  Since this is a static vari
 DO NOT MODIFY the line containing the static Random variable <code>rand</code> or your code will never pass the test.
 </div>
 
-### 2. `pascalsTriangle(int n)`
+### 2. `pascalsTriangle(int numOfRows)`
 
-This method generates Pascal's Triangle up to `n+1` rows and returns it as a formatted string. It uses `generateLevel()` to calculate each row and `generateLevelString()` to format each row.
+This method generates Pascal's Triangle up to `numOfRows` rows and returns it as a formatted string. It uses `generateLevel()` to calculate each row and `generateLevelString()` to format each row.
 
 **Method Signature:**
 
@@ -93,7 +93,7 @@ System.out.println(triangle);
 
 **Explanation:**
 
-For each level from 0 to `n`, `pascalsTriangle()` generates the appropriate row in Pascal's Triangle and appends the formatted string for that row to the result.
+For each level from 0 to `numOfRows`, `pascalsTriangle()` generates the appropriate row in Pascal's Triangle and appends the formatted string for that row to the result.
 
 
 #### a. `generateLevel(int level, int[] a)`
